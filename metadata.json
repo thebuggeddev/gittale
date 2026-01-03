@@ -1,0 +1,5 @@
+{
+  "name": "GitTale",
+  "description": "A story-driven visualization of GitHub repository history, transforming commits into a readable narrative timeline.",
+  "requestFramePermissions": []
+}
